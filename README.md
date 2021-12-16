@@ -21,7 +21,7 @@ MDPI Sensors Special Issue Applications of Video Processing and Computer Vision 
 ## Video Demo
 * Input Video
 
-![VSGG-Net](image/input_vid.gif)
+<center><img src="/image/input_vid.gif" width="400" height="250"></center> 
 * Scene Graph
 
-![VSGG-Net](image/graph.gif) 
+<center><img src="/image/graph.gif" width="400" height="250"></center> 
