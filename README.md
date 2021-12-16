@@ -20,8 +20,7 @@ MDPI Sensors Special Issue Applications of Video Processing and Computer Vision 
 
 ## Video Demo
 * Input Video
-
 <center><img src="/image/input_vid.gif" width="400" height="250"></center> 
-* Scene Graph 
 
+* Scene Graph 
 <center><img src="/image/graph.gif" width="400" height="250"></center> 
